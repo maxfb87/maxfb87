@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<a href="https://github.com/maxfb87/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxfb87&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=false" />
+</a>
+
 <!--
 **maxfb87/maxfb87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
